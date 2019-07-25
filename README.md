@@ -11,10 +11,10 @@
 * [Chai] (https://www.chaijs.com/)
 
 ## Test Cases
-[case 1] input: 6, expect output : Fizz
-[case 2] input: 25, expect output : Buzz
-[case 3] input: 30, expect output : FizzBuzz
-[case 4] input: 11, expect output : 11
+* [case 1] input: 6, expect output : Fizz
+* [case 2] input: 25, expect output : Buzz
+* [case 3] input: 30, expect output : FizzBuzz
+* [case 4] input: 11, expect output : 11
 
 ## Result
 https://github.com/vickihsiao/test-fizzbuzz/blob/master/test/index.html
