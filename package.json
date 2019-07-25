@@ -1,0 +1,27 @@
+{
+  "name": "test-fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickihsiao/test-fizzbuzz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vickihsiao/test-fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/vickihsiao/test-fizzbuzz#readme"
+}
